@@ -11,7 +11,7 @@ bill calculator, which after entering the amount to be paid, the number of peopl
 
 ## Demo
 
-Insert gif or link to demo
+soon
 
 ## Color Reference
 
